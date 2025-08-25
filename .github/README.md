@@ -1,4 +1,4 @@
-![Header Of Programming Ligatures Font](https://raw.githubusercontent.com/Pymmdrza/ProgrammingLigaFont/refs/heads/main/.github/assets/logo_header.svg?token=GHSAT0AAAAAADJFZ25UL26Y2BUFUBXEFD7S2FMW2ZA)
+![Header Of Programming Ligatures Font](https://raw.githubusercontent.com/Pymmdrza/ProgrammingLigaFont/refs/heads/main/.github/assets/logo_header.svg)
 # Programming Liga Font
 All Ligatures Font One of the best and most popular programming fonts.
 
