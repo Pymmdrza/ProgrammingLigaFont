@@ -1,0 +1,1 @@
+`ASSETS='.github/assets/*'`
