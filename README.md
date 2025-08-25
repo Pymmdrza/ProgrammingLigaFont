@@ -1,2 +1,0 @@
-# ProgrammingLigaFont
-Programming Ligatures Fonts.
